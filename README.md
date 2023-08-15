@@ -1,7 +1,6 @@
 # PortfolioMaisPraTi
 
-Link da GitHub Page :
-Link do repositorio GitHub com Read.me :
+Link da GitHub Page : https://mrnicolait.github.io/PortfolioMaisPraTi/
 
 # Projeto Final
 Nesse projeto usamos HTML, CSS para estilizar, JS e upload de imagens e links para projetos anteriores com minuaturas dos mesmos, abaixo vamos falar um pouco do que foi realizado em cada seção desse último projeto.
